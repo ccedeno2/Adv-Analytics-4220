@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @ccedeno2
-- 👀 I’m interested in data science and analytics, which is my current major.
-- 🌱 I’m currently focusing my learning a lot on data visualization through PowerBI
-- 💞️ I’m looking to collaborate on gaining insights through data analysis and meaningful visualizations.
-- 📫 How to reach me: cscedeno@gmail.com
-- ⚡ Fun fact: I really enjoy adrenaline sports, but my main passion will always be football⚽!
