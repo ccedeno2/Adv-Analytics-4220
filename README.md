@@ -1,3 +1,7 @@
 Collection of assignments put out through ITEC 4220 -  Advance Data Analytics Class
 
 Assignment 3 - R Markdown Practice: Loading the CSV dataset into R and creating graphs, including a histogram to analyze the distribution of one column. Explained the type of distribution and key features. Performing a simple statistical calculation (e.g., mean, median) related to the hypothesis and explained the result. Applied a correlation or regression analysis to identify relationships in the data and explained how it supports the questions. Lastly, divided the dataset into two groups and applied a statistical test (e.g., t-test, ANOVA), showing the code and interpreting the results. https://rpubs.com/calebscedeno/1215817
+
+Assignment 8 - Based on the Tutorial 2 content, load your CSV dataset into Javascript and use D3.js to visualize one or more columns. View and fork my Code Sandbox. The fork button is on the top right and it will ask you to create a free account. In your fork, start by editing my example in the index.html file. Upload your data file and include the following elements in your visualization: For one column from your dataset, create circles, rectangles, or text elements.
+Create a second set of elements from another column, but position them close to the first one, or change one of its attributes with it (for instance, position or color).
+https://codesandbox.io/p/sandbox/d3-tutorial-2-forked-cmph9z?workspaceId=7c83d5ef-3a6a-4dfa-8858-042a02bc8bef
